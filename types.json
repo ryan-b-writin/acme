@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "flare",
+            "description": "Fireworks intended to be visible in low-visibility situations"
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "professional",
+            "description": "Fireworks intended for profesional firework displays"
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "comically large rocket",
+            "description": "For cartoon characters looking to make a statement"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "big red barrel",
+            "description": "Explosive furniture sure to liven up any evil lair"
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "powerups",
+            "description": "boost your player character's destructive power!"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "products": [{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        "ssnakes": {
+            "id": 1,
+            "type": 0,
+            "name": "Ssnakes",
+            "description": "Hey cool you light it and watch it turn into snake-shaped ashes"
+        },
+       "snappers": {
+            "id": 2,
+            "type": 0,
+            "name": "Snappers",
+            "description": "They're just like little flashbangs!"
+        },
+       "road_flare": {
+            "id": 3,
+            "type": 1,
+            "name": "Road Flare",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+       "flare_gun": {
+            "id": 4,
+            "type": 1,
+            "name": "Flare Gun",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+       "emergency_flare": {
+            "id": 5,
+            "type": 1,
+            "name": "Emergency Flare",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+       "bottle_rocket": {
+            "id": 6,
+            "type": 2,
+            "name": "Bottle Rocket",
+            "description": "Hey be careful or you'll lose a finger."
+        },
+       "big_blast": {
+            "id": 7,
+            "type": 2,
+            "name": "Big Blast",
+            "description": "Pretty fireworks that really make a splash. Available in many colors."
+        },
+       "whistlers": {
+            "id": 8,
+            "type": 2,
+            "name": "Whistlers",
+            "description": "Those cool fireworks that make a whistling sound after they go off"
+        },
+       "overcompensator": {
+            "id": 12,
+            "type": 3,
+            "name": "Overcompensator",
+            "description": "Our biggest rocket, no questions asked, no judgment passed."
+        },
+       "moonshot": {
+            "id": 10,
+            "type": 3,
+            "name": "Moonshot",
+            "description": "Red, with a conical nose. Just big enough to tie your cartoon nemesis to."
+        },
+       "misfire_special": {
+            "id": 11,
+            "type": 3,
+            "name": "Misfire Special",
+            "description": "Guaranteed to misfire in spectacular fashion. Make sure you don't order a crate of these by accident ;)"
+        },
+       "overcompensator": {
+            "id": 12,
+            "type": 4,
+            "name": "Overcompensator",
+            "description": "Our biggest rocket, no questions asked, no judgment passed."
+        },
+       "b.r.b.": {
+            "id": 13,
+            "type": 4,
+            "name": "BRB Classic",
+            "description": "Just a big red barrel you can put somewhere. Keep out of gunfire"
+        },
+       "tnt": {
+            "id": 14,
+            "type": 4,
+            "name": "TNT barrel",
+            "description": "A wooden barrel with TNT helpfully printed on the side. Can't stress enough that you don't want people shooting these."
+        },
+       "ammo_up": {
+            "id": 15,
+            "type": 5,
+            "name": "Ammo Up",
+            "description": "Now you can carry more ammo somehow! Yay!"
+        },
+       "power_up": {
+            "id": 16,
+            "type": 5,
+            "name": "Power Up",
+            "description": "Your weapons just shoot better now. Accept it."
+        },
+       "quad_damage": {
+            "id": 17,
+            "type": 5,
+            "name": "Quad Damage",
+            "description": "That's FOUR TIMES as much!"
+        }                                                                                                                              
+    }]
+}
